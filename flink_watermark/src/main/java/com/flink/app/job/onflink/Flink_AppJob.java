@@ -1,4 +1,4 @@
-package com.flink.app.job;
+package com.flink.app.job.onflink;
 
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.common.functions.ReduceFunction;
