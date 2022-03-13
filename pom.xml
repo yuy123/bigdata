@@ -5,6 +5,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>flink_watermark</module>
+        <module>java_demo</module>
+        <module>es</module>
+        <module>flink</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
